@@ -8,5 +8,5 @@ It is currently limited to only the 4-Key layout, with performance depending on 
 Aside from that, its usability is decent.
 
 ## Planned Features
-- [ ] 8k Support
-- [ ] Automatic adjustment to scroll speed
+- [X] 7k Support
+- [ ] Automatic adjustment to scroll speed7
